@@ -10,4 +10,4 @@
 **or**  
 `npm run sass-prod` for minified production files.
 
-Watch scripts can be changed package.json.
+Watch scripts can be changed in package.json.
